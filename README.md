@@ -18,7 +18,7 @@ def ideal_data_science_project(data):
     """
 
     train_data, test_data = train_test_split(data, test_size=ideal)
-    model.fit(train_data)
+    model.fit(train_data["best_features"])
     prediction = model.predict(test_data["best_features"])
     accuracy = accuracy_score(true, prediction)
     print("Accuracy of the predictive model: 99.99999 %")
