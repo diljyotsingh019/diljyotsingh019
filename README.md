@@ -29,48 +29,6 @@ if __name__ == "__main__":
 
 I create similar deep learning, transformers, Computer Vision and GenAI frameworks. Reach out to me at diljyotsingh019@gmail.com for more details
 
-## My Skillset 🛠️
-
-Machine Learning: Supervised and Unsupervised
-
-Big Data: HIVE, PIG, SQOOP, MySQL, HDFS, SPARK 
-
-Deep Learning: Tensorflow, Pytorch 
-
-Database: SQL, MongoDB (NoSQL), Pinecone, ChromaDB 
-
-Data Visualization: TABLEAU, Power BI, matplotlib, seaborn 
-
-Cloud: AWS 
-
-Container: Docker, Kubernetes, ECR, ECS 
-
-Agile Tools: JIRA 
-
-Logging: CloudWatch Logs, logging (python) 
-
-Languages: Python, JSON, HTML, CSS, BASH, R 
-
-Platform: OS- Windows, Linux 
-
-Deployment: Heroku, Gradio 
-
-API: REST API 
-
-Transformers: HuggingFace 
-
-Source Code Management: Git and GitHub 
-
-Data Version Control: DVC 
-
-CI/CD: GitHub Actions 
-
-Experiment Tracking: MLFlow
-
-Testing: pytest 
-
-Generative AI: RAG, RAGAS, Agents, LLAMA3, Langchain, gpt-4 
-
 
 
 
