@@ -1,5 +1,5 @@
-Welcome to My Data Science and MLOps Wonderland! 🎢
-About Me
+# Welcome to My Data Science and MLOps Wonderland! 🎢
+## About Me
 Hello, fellow data aficionados! I'm a passionate data scientist and MLOps enthusiast with a quirky sense of humor. Here's a little glimpse into my wacky world of data, where algorithms meet laughter and cloud deployments come with a side of chuckles.
 
 Here's a little Python function to showcase my love for data science and MLOps. 
@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
 I create similar deep learning, transformers, Computer Vision and GenAI frameworks. Reach out to me at diljyotsingh019@gmail.com for more details
 
-My Skillset 🛠️
+## My Skillset 🛠️
 Machine Learning: Supervised and Unsupervised
 Big Data: HIVE, PIG, SQOOP, MySQL, HDFS, SPARK 
 Deep Learning: Tensorflow, Pytorch 
