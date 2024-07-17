@@ -1,6 +1,7 @@
 # Welcome to My Data Science and MLOps Wonderland! 🎢
 ## About Me
 Hello, fellow data aficionados! 
+
 I'm a passionate data scientist and MLOps enthusiast with a quirky sense of humor. Here's a little glimpse into my wacky world of data, where algorithms meet laughter and cloud deployments come with a side of chuckles.
 
 Here's a little Python function to showcase my love for data science and MLOps. 
